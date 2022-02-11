@@ -4,16 +4,10 @@
 </p>
 
 # Collections Framework Java - Curso Trabalhando com Collections Java
-Curso realizado durante o Bootcamp GFT Start #3 da Digital Innovation One. 
+Projeto realizado durante o Bootcamp GFT Start #3 da Digital Innovation One para praticar conceitos de POO.
 
 # Conteúdo
-* List
-  - ArrayList
-  - LinkedList
-* Set
-  - HashSet
-  - LinkedHashSet
-  - TreeSet
-* Map
-  - HashMap
-* Stream API (manipulação de collections)
+- Abstração
+- Encapsulamento
+- Herança
+- Polimorfismo
